@@ -1,0 +1,2 @@
+# myGit
+Just a respository
